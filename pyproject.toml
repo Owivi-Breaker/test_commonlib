@@ -1,0 +1,13 @@
+[project]
+name = "test_commonlib"
+version = "0.0.1"
+authors = [
+    {name="author name", email="author@email.com"}
+]
+description = "Simple Python package"
+dependencies = []
+license = {text = "MIT License"}
+
+
+[project.urls]
+repository = "https://github.com/Owivi-Breaker/test_commonlib"
